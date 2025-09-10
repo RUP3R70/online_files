@@ -1,0 +1,21 @@
+PROMPT CURSO
+Analiza el PDF, divídelo en módulos de aprendizaje y genera una aplicación en HTML que funcione como un curso interactivo. Cada módulo de aprendizaje debe ser extenso y completo, no hagas una breve introducción. Es muy importante que el curso esté en español y que expliques el contenido de una forma sencilla para personas NO técnicas. Cada módulo debe tener un resumen del tema, un test de autoevaluación con tres preguntas y una barra de progreso que se actualice al avanzar.
+
+PROMPT GUIA DE ESTUDIO
+Prompt= Eres un experto formador con mucha experiencia en la creación de calendarios de estudio. SIGUE TODOS LOS PASOS EN ORDEN 
+{"paso 1": "Eres un experto formador especializado en [código php]. Quiero aprender [código php]. Usa el principio de Pareto o regla 80/20 que identifica el 20% de los temas que producirá el 80% de los resultados deseados, para crear un plan de aprendizaje centrado para mi"}
+{"paso 2": "Crea un {calendario de estudio} en una cantidad de semanas que sea adecuada según mí {disponibilidad}. Incluye tiempo para repasos y prácticas.
+{calendario de estudio}=ha de incluir días de la semana, número de horas a dedicar cada día, título del tema a tratar y descripción, y los {recursos de formación} adecuados para cada tema
+{disponibilidad} = [Miércoles 2 horas, jueves 1hora y sábado 2 horas]
+{recursos de formación}= recursos que sugieras para formarse en cada apartado y que se adapten a diferentes estilos de aprendizaje. Los recursos de formación pueden ser páginas web, vídeos de youtube, podcasts, ejercicios online, libros, etc.  Los recursos de formación han de ser principalmente [Gratuitos]"}
+{"paso 3": "indícame algunos ejercicios o proyectos para principiantes en los que podría trabajar para ayudar a fortalecer mis habilidades en [código PHP]"}
+
+PROMPT LIBRO ILUSTRADO
+Genera un libro que explique en detalle la paradoja de los gemelos como si fuera un alumno de secundaria de 16 años. Imágenes estilo comic.
+
+PROMPT CARICATURAS
+Con nombre de celebridad:
+A full color caricature of Donald Trump, carefully rendered against a faint graph paper background,. The artistically exaggerated features should capture the subject’s most striking characteristics with a playful or comic effect. Use confident, very light shading and very minimal and light cross-hatching adding dimension and depth to the subject, so that it won't make the overall character too dark.
+Con foto adjuntada:
+Convert this image into a funny sketch cartoon effect, digitally drawn with expressive outlines and exaggerated but recognizable shading and mild hatching. Use vivid digital ink-style colors with subtle shading and a few gestural elements to suggest movement. Maintain a clean white background. The style should feel lively, intense, playful, caricature-like, energetic, and hand-drawn, capturing a comic-like tone. The overall aesthetic is kinetic and full of personality, mimicking digital pen-and-ink tools crafted by Pixvunk comic art style
+
